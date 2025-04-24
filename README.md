@@ -59,3 +59,7 @@ INSERT INTO Reviews (ReviewID, AttractionID, UserID, ReviewDate, Rating, Comment
 **Question 4**: Identify the names of attractions that have at least one review with a rating of 5 and at least one review with a rating of 3.
 
 **Question 5**: For each attraction category, find the attraction with the highest average rating. Display the category, attraction name, and its average rating. (Hint: You might need to use window functions or a subquery).
+
+# Helpful Resources
+
+https://datalemur.com/sql-tutorial
